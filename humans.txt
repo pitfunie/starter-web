@@ -11,7 +11,8 @@ Michael Williams wwmike1@gmail.com Solutions Architect/DevOps
 
 # THANKS
 
-    Udemy DevOps Course 
+    Udemy DevOps Course
+    Thanks to all my students 
 
 # TECHNOLOGY COLOPHON
 
