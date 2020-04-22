@@ -2,6 +2,8 @@
 # The humans responsible & technology colophon
         this is a change
 
+Michael Williams wwmike1@gmail.com Solutions Architect/DevOps
+
 # TEAM
 
     <name> -- <role> -- <twitter>
