@@ -11,9 +11,11 @@ Michael Williams wwmike1@gmail.com Solutions Architect/DevOps
 # THANKS
 
     This is a goog DevOps Class
+    Excellent Class
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
     ML, AWS, Google
+    OpenShift, Docker
