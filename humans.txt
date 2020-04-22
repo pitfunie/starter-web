@@ -10,7 +10,7 @@ Michael Williams wwmike1@gmail.com Solutions Architect/DevOps
 
 # THANKS
 
-    <name>
+    This is a goog DevOps Class
 
 # TECHNOLOGY COLOPHON
 
