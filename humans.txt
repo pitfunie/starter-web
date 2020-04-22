@@ -7,9 +7,11 @@ Michael Williams wwmike1@gmail.com Solutions Architect/DevOps
 
     DevOps Engineer
 
+    Milieucloud
+
 # THANKS
 
-    <name>
+    Udemy DevOps Course 
 
 # TECHNOLOGY COLOPHON
 
