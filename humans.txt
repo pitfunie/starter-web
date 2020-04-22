@@ -12,6 +12,8 @@ Michael Williams wwmike1@gmail.com Solutions Architect/DevOps
 
 # THANKS
 
+Doing some changes in Local.
+
 
 # TECHNOLOGY COLOPHON
 
