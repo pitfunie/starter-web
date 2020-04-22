@@ -15,4 +15,4 @@ Michael Williams wwmike1@gmail.com Solutions Architect/DevOps
 
     HTML5, CSS3
     jQuery, Modernizr
-    Docker, Java Programming
+    ML, AWS, Google
