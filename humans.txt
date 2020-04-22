@@ -8,10 +8,9 @@ Michael Williams wwmike1@gmail.com Solutions Architect/DevOps
 
     DevOps Engineer
 
-# THANKS
+    Milieucloud
 
-    This is a goog DevOps Class
-    Excellent Class
+# THANKS
 
 # TECHNOLOGY COLOPHON
 
