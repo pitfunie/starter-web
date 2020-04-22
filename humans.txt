@@ -12,6 +12,7 @@ Michael Williams wwmike1@gmail.com Solutions Architect/DevOps
 
 # THANKS
 
+
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
