@@ -4,6 +4,9 @@
 
 Michael Williams wwmike1@gmail.com Solutions Architect/DevOps
 
+
+Adding important Notes on GIT Stash
+
 # TEAM
 
     DevOps Engineer
